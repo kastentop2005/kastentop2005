@@ -1,10 +1,10 @@
 Hi 👋 My name is Konstantin Lipinskiy
 =====================================
 
-I am a 16 y.o. student and begginer programmer
+I am a 17 y.o. student and begginer programmer
 ----------------------------------------------
 
-My main language for now is JavaScript. But C and Java with Kotlin seem pretty attractive to me as well, so I might choose them in future. Also, I really suck at Physics :)
+My main language for now is Python. But C and Java with Kotlin seem pretty attractive to me as well, so I might choose them in future. Also, I really suck at Physics :)
 
 * 🌍  I'm based in Russia, Sosnovyy Bor
 * 🖥️  See my portfolio at [my website](http://kastentop2005.github.io)
