@@ -1,7 +1,7 @@
 Hi 👋 My name is Konstantin Lipinskiy
 =====================================
 
-I am a 17 y.o. student and beginner programmer
+I am a 18 y.o. student and beginner programmer
 ----------------------------------------------
 
 Currently, I'm learning almost nothing (exams and stuff). Android lover
@@ -9,7 +9,6 @@ Currently, I'm learning almost nothing (exams and stuff). Android lover
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [Telegram](https://t.me/konnlori)
 * 🧠  I'm learning nothing for now
-* 🤝  I'm open to collaborating on Android Projects
 
 ### Skills
 
